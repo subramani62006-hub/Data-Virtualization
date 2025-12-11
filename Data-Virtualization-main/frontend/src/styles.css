@@ -1,0 +1,9 @@
+body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#f3f6fb;color:#0f172a;padding:20px}
+.app{max-width:1100px;margin:0 auto;display:grid;grid-template-columns:320px 1fr;gap:16px}
+.sidebar{background:white;padding:16px;border-radius:8px;box-shadow:0 8px 24px rgba(16,24,40,0.06)}
+.main{background:white;padding:18px;border-radius:8px;box-shadow:0 8px 24px rgba(16,24,40,0.06)}
+.input,button,select{padding:8px 10px;border-radius:6px;border:1px solid #e6eef8;font-size:14px}
+.btn{background:#2563eb;color:white;border:none;padding:8px 12px;border-radius:6px;cursor:pointer}
+.file-input{display:block;margin-bottom:8px}
+.list-item{padding:8px;border-radius:6px;border:1px solid #eef2ff;margin-bottom:8px;cursor:pointer}
+.list-item:hover{background:#f8fafc}
